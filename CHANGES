@@ -1,6 +1,7 @@
 Version 0.50.0 (In progress)
   * updated .gitignore
   * bug fix to --enable-fortran-interfaces Makefile.AM including .mod files
+  * Added unit test to verify divergence(gradient(U)) as a vector laplacian
 
 Version 0.44.0 (19 June, 2015)
 
